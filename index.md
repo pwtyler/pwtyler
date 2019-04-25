@@ -1,15 +1,15 @@
 # Philip Tyler
 
-https://twitter.com/pwtyler
+<https://twitter.com/pwtyler>
 
-https://pwtyler.com
+<https://pwtyler.com>
 
-https://pwhaug.com
+<https://pwhaug.com>
 
-https://dorkydungeoneer.com
+<https://dorkydungeoneer.com>
 
-https://peatfiend.com
+<https://peatfiend.com>
 
-https://pwtyler.github.io/dnd-brewery/
+<https://pwtyler.github.io/dnd-brewery/>
 
-https://bardme.herokuapp.com/
+<https://bardme.herokuapp.com/>
